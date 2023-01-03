@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>FoodItemSelectionPage.qml</file>
+        <file>McTest.pro</file>
+        <file>main.qml</file>
+        <file>StatusBar.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>burgers.txt</file>
+        <file>ItemBuilder.qml</file>
+        <file>Cart.qml</file>
+        <file>UI/Assets/burger.png</file>
+        <file>UI/Assets/burger_1.png</file>
+        <file>UI/Assets/burger_2.png</file>
+        <file>UI/Assets/burger_3.png</file>
+        <file>UI/Assets/burger_4.png</file>
+        <file>UI/Assets/cart.png</file>
+        <file>UI/Assets/fries.png</file>
+        <file>UI/Assets/soda.png</file>
+        <file>UI/Assets/coke_zero.png</file>
+        <file>UI/Assets/nuggets.png</file>
+        <file>UI/Assets/orange_juice.png</file>
+        <file>UI/Assets/tea.png</file>
+        <file>UI/Assets/return.png</file>
+    </qresource>
+</RCC>

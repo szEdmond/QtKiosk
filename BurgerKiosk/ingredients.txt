@@ -1,0 +1,9 @@
+BeefPatty 0.5
+ChickenPatty 0.5
+Cheese 0.35
+Pickle 0.25
+Ketchup 0.15
+Mustard 0.15
+Mayonnaise 0.15
+Onions 0.20
+Lettuce 0.35

@@ -1,0 +1,4 @@
+Coke 2.0 soda.png
+Tea 2.0 tea.png
+Coke_Zero 2.0 coke_zero.png
+Orange_Juice 3.0 orange_juice.png

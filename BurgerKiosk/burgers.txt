@@ -1,0 +1,4 @@
+Cheeseburger Bun,BeefPatty,Cheese,Ketchup,Pickle,Onions,Mustard 2.5 burger_2.png
+Royal Bun,BeefPatty,Lettuce,BigMacSauce,Cheese,Pickle,Onions 5.0 burger_3.png
+QuarterPounder Bun,BeefPatty,Cheese,Ketchup,Mustart,Pickle,Onions 6.0 burger_4.png
+Double Bun,BeefPatty,Cheese,Pickle,Ketchup,Mustard,Onions 5.0 burger_1.png
